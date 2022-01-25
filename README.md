@@ -1,5 +1,13 @@
-Open Modem Firmware
+Open Modem Firmware experimental version (forked)
 ==========
+
+This is a fork of the original OpenModem firmware from Mark Qvist at [OpenModem page](https://unsigned.io/openmodem/)
+
+The goal of this fork is to create a new PCB from the original schematics and to change the firmware to include other features.
+
+This is a personal learning project that is meant to be used for experimentation, if you are interested in OpenModem and you want a stable product, you should go to the original creator github page.
+
+Original README.md follows...
 
 Open Modem Firmware is an open source firmware implementation of a AFSK modem supporting 300, 1200 and 2400 baud operation, suitable for communication over a wide variety of analogue mediums, both radio and wired. The firmware is designed for and compatible with [unsigned.io's OpenModem](https://unsigned.io/openmodem/), but can be used on any similar build.
 
